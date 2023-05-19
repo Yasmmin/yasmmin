@@ -2,7 +2,6 @@
 
 <div>
   <img  src="https://github-readme-stats.vercel.app/api?username=auroranul&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="right" height="190" alt="rick and morty" src="rick.gif"> 
   <div align="center"> 
 
   <div style="display: inline_block"><br>
